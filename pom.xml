@@ -41,8 +41,9 @@
 <distributionManagement>
 	<repository>
 		<id>deployment</id>
-		<name>Internal Releases</name>
-		<!-- <url>http://13.233.19.201:8081/nexus/content/repositories/yoodlex/</url> -->
+		<name>deployment</name>
+		<!--<name>Internal Releases</name>
+		 <url>http://13.233.19.201:8081/nexus/content/repositories/yoodlex/</url> -->
 		<url>http://192.168.12.153:8081/nexus/content/repositories/test/</url>
 	</repository>
  
